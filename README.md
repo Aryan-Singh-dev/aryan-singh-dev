@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aryan 👋
+
+💻 Aspiring Software Engineer  
+🚀 Currently learning DSA and Full Stack Development  
+
+## 🔧 Skills
+- C++
+- JavaScript
+- HTML, CSS
+
+## 📈 Current Focus
+- Solving DSA on LeetCode
+- Building projects
+
+## 🎯 Goal
+- Crack a good internship
 
 <!--
 **Aryan-Singh-dev/aryan-singh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
