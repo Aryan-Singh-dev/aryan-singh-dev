@@ -1,7 +1,8 @@
 # Greetings, I'm Aryan Singh
 
 Aspiring Software Engineer  
-Currently learning DSA and Full Stack Development  
+Currently learning DSA and Full Stack Development
+trying to build meaningful projects
 
 ## Skills
 - C++ with OOPs
