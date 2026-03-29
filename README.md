@@ -1,21 +1,20 @@
 # Greetings, I'm Aryan Singh
 
-Aspiring Software Engineer  
-Currently learning DSA and Full Stack Development
-trying to build meaningful projects
+Currently strengthening my DSA with hands-on experience upon Full Stack Development
+Building meaningful projects as the ultimate goal
 
 ## Skills
 - C++ with OOPs
 - HTML, CSS, Javascript
 
 ## Current Focus
-- DSA on LeetCode
-- Machine Learning
-- Node.js
+- DSA
+- React
 
 ## Goal
 - Crack a good internship
-- Getting placed at my dream company
+- Aquire useful skills
+- Build/ Contribute to real-world Projects  
 
 <!--
 **Aryan-Singh-dev/aryan-singh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
