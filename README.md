@@ -1,15 +1,16 @@
 # Greetings, I'm Aryan Singh
 
-Currently strengthening my DSA with hands-on experience upon Full Stack Development
+Currently strengthening my DSA with hands-on experience upon backend Development
 Building meaningful projects as the ultimate goal
 
 ## Skills
-- C++ with OOPs
+- Python with OOPs
 - HTML, CSS, Javascript
+- Node.js, Express
 
 ## Current Focus
 - DSA
-- React
+- Express
 
 ## Goal
 - Crack a good internship
