@@ -11,6 +11,7 @@ Building meaningful projects as the ultimate goal
 ## Current Focus
 - DSA
 - Express
+- System Design
 
 ## Goal
 - Crack a good internship
