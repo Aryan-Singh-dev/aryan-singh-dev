@@ -10,8 +10,9 @@ Building meaningful projects as the ultimate goal
 
 ## Current Focus
 - DSA
-- Express
+- Backend Concepts
 - System Design
+- AI Integration
 
 ## Goal
 - Crack a good internship
